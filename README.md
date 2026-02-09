@@ -7,13 +7,13 @@ I mainly focus on web tools with an emphasis on performance.
 
 ## Featured Projects
 
-- [Tachyon:](https://github.com/shio265/shio265/Tachyon)
+- [Tachyon:](https://github.com/shio265/Tachyon)
   A lightweight and fast Node.js API server.
 
-- [Tachyon-Hub:](https://github.com/shio265/shio265/Tachyon-Hub)
+- [Tachyon-Hub:](https://github.com/shio265/Tachyon-Hub)
   A web application for managing redeem codes with user permission control.
 
-- [Profile:](https://github.com/shio265/shio265/Profile) 
+- [Profile:](https://github.com/shio265/Profile) 
   Personal profile website built with TypeScript.
 
 ---
